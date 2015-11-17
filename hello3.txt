@@ -1,0 +1,4 @@
+Git - Distrubute version control system
+Git	ช่วยเก็บ file และ ควบคุม version ให้เป็นปัจจุบัน
+	ช่วย share ข้อมูลให้กับคนอื่นได้ง่าย
+	
